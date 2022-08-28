@@ -17,5 +17,4 @@ public class ProductUtils {
         BeanUtils.copyProperties(product,productDto);
         return productDto;
     }
-
 }
